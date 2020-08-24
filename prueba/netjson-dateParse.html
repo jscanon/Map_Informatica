@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Informática primer trabajo</title>
+    <meta charset="utf-8">
+    <link href="../src/css/netjsongraph-theme.css" rel="stylesheet">
+    <link href="../src/css/netjsongraph.css" rel="stylesheet">
+</head>
+<body>
+    <script type="text/javascript" src="../dist/netjsongraph.min.js"></script>
+    <script type="text/javascript">
+	// Se crea una variable con los datos tomando como referencia el nombre dado a cada nodo.
+        const graph = new NetJSONGraph("./data/4.json", {
+            prepareData: data => {
+                data.nodes.map(node => {
+                    node.label = node.name;
+                    node.properties = node.properties || {};
+                })
+                data.links.map(link => {
+                    link.properties = link.properties || {};
+                })
+            },
+        });
+        
+        graph.render();
+    </script>
+</html>

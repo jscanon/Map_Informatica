@@ -1,0 +1,61 @@
+{
+    "type":"NetworkGraph",
+    "label":"La informática y sus relaciones",
+    "nodes":[
+		{"id":"1","name":"Informática","properties":{"Tema":"Informática"}},
+        {"id":"2","name":"Aplicaciones","properties":{"Tema":"Aplicaciones"}},
+        {"id":"3","name":"Ciencias Relacionadas","properties":{"Tema":"Ciencias"}},
+		{"id":"4","name":"Matemáticas","properties":{"Ciencias":"Matemáticas"}},
+		{"id":"5","name":"Electrónica","properties":{"Ciencias":"Electrónica"}},
+		{"id":"6","name":"Física","properties":{"Ciencias":"Física"}},
+		{"id":"7","name":"Lógica","properties":{"Ciencias":"Lógica"}},
+		{"id":"8","name":"Ciencias naturales","properties":{"Ciencias":"Ciencias naturales"}},
+		{"id":"9","name":"Toma de decisiones","properties":{"Aplicaciones":"Toma de decisiones"}},
+		{"id":"10","name":"Educación","properties":{"Aplicaciones":"Educación"}},
+		{"id":"11","name":"Navegación","properties":{"Aplicaciones":"Navegación"}},
+		{"id":"12","name":"Aeronáutica","properties":{"Aplicaciones":"Aeronáutica"}},
+		{"id":"13","name":"Vigilancia","properties":{"Aplicaciones":"Vigilancia"}},
+		{"id":"14","name":"Transporte","properties":{"Aplicaciones":"Transporte"}},
+		{"id":"15","name":"Medicina","properties":{"Aplicaciones":"Medicina"}},
+		{"id":"16","name":"Administración","properties":{"Aplicaciones":"Administración"}},
+		{"id":"17","name":"Contabilidad y finanzas","properties":{"Aplicaciones":"Contabilidad y finanzas"}},
+		{"id":"18","name":"Mercadeo","properties":{"Aplicaciones":"Mercadeo"}},
+		{"id":"19","name":"Ingeniería y arquitectura","properties":{"Aplicaciones":"Ingeniería y arquitectura"}},
+		{"id":"20","name":"Multimedia","properties":{"Aplicaciones":"Multimedia"}},
+		{"id":"21","name":"Robótica","properties":{"Aplicaciones":"Robótica"}},
+		{"id":"22","name":"Nanotecnología","properties":{"Aplicaciones":"Nanotecnología"}},
+		{"id":"23","name":"Realidad virtual","properties":{"Aplicaciones":"Realidad virtual"}},
+		{"id":"24","name":"Inteligencia artificial","properties":{"Aplicaciones":"Inteligencia artificial"}},
+		{"id":"25","name":"Producción","properties":{"Aplicaciones":"Producción"}}		
+	],
+    "links":[
+		{"source":"1","target":"2"},
+		{"source":"1","target":"3"},
+		{"source":"3","target":"4"},
+		{"source":"3","target":"5"},
+		{"source":"3","target":"6"},
+		{"source":"3","target":"7"},
+		{"source":"3","target":"8"},
+		{"source":"2","target":"9"},
+		{"source":"2","target":"10"},
+		{"source":"2","target":"11"},
+		{"source":"2","target":"12"},
+		{"source":"2","target":"13"},
+		{"source":"2","target":"14"},
+		{"source":"2","target":"15"},
+		{"source":"2","target":"16"},
+		{"source":"2","target":"17"},
+		{"source":"2","target":"18"},
+		{"source":"2","target":"19"},
+		{"source":"2","target":"20"},
+		{"source":"2","target":"21"},
+		{"source":"2","target":"22"},
+		{"source":"2","target":"23"},
+		{"source":"2","target":"24"},
+		{"source":"2","target":"25"}		
+		]
+	}
+
+
+
+
