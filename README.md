@@ -2,7 +2,7 @@
 # Maestría en ciencias de la Información y las Comunicaciones
 
 Informática Gr:195-2 <br>
-Periodo académico 2020-3 <br>
+Periodo académico: 2020-3 <br>
 Integrante: 
 <ol>
 <li>Daniel David Leal Lara - 20202495012</li>
