@@ -11,6 +11,8 @@ Integrante:
 # Instalación y despliegue en Linux
 Dirijase a la carpeta en la cual tiene el codigo del proyecto mediante el comando <strong>cd</strong>
 Ejecute el codigo ...
+npm install
+npm run start
 
 # Resultado de la aplicación
 <p align="center">
