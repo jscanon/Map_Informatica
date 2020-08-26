@@ -14,5 +14,5 @@ Ejecute el codigo ...
 
 # Resultado de la aplicación
 <p align="center">
-  <img src="/lealdaniel00/InformaticaMap/blob/master/prueba/data/Imagen resultado.png">
+  <img src="../lealdaniel00/InformaticaMap/blob/master/prueba/data/Imagen resultado.png">
 </p>
