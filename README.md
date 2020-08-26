@@ -1,4 +1,4 @@
-# Aplicación Vigilancia Tecnológica - Alertas RSS
+# Relaciones de la informática con otras disciplinas
 # Maestría en ciencias de la Información y las Comunicaciones
 
 Informática - 2020-3
@@ -8,12 +8,13 @@ Integrante:
 </ol>
 
 # NetJSON
-Basado en https://github.com/KuTuGu/NetJSONDemo
+Esta aplicación fue realizada a partir del código que se encuentra en https://github.com/KuTuGu/NetJSONDemo
 # Instalación y despliegue en Linux
-Dirijase a la carpeta en la cual tiene el codigo del proyecto mediante el comando <strong>cd</strong> <br>
-Posteriormente, dentro de la carpeta, ejecute las siguientes instrucciones <br>
-<strong>npm install</strong> Esta instruccion permite instalar los Package del .json <br>
-<strong>npm run start</strong> Esta instrucción inicia la aplicación desde el localhost <br>
+Para poder iniciar debe tener instalado el sistema de gestión de paquetes por defecto para Node.js, para lograr esto, ejecute el codigo <strong>sudo apt install npm</strong><br>
+Posteriormente diríjase a la carpeta en la cual tiene el código del proyecto mediante el comando <strong>cd</strong> <br>
+Finalmente, dentro de la carpeta, ejecute las siguientes instrucciones <br>
+<strong>sudo npm install</strong> Esta instrucción permite instalar los Package del .json <br>
+<strong>sudo npm run start</strong> Esta instrucción inicia la aplicación desde el localhost <br>
 
 Una vez realizados los pasos anteriores, dirijase al localhost con el puerto correspondiente el cual, usualmente es el 8080 <br>
 http://localhost:8080/
