@@ -13,4 +13,6 @@ Dirijase a la carpeta en la cual tiene el codigo del proyecto mediante el comand
 Ejecute el codigo ...
 
 # Resultado de la aplicación
-
+<p align="center">
+  <img src="prueba/data/imagen resultado.png">
+</p>
