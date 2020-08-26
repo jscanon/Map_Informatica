@@ -11,7 +11,8 @@ Integrante:
 # NetJSON
 Esta aplicación fue realizada a partir del código que se encuentra en https://github.com/KuTuGu/NetJSONDemo
 # Instalación y despliegue en Linux
-Para poder iniciar debe tener instalado el sistema de gestión de paquetes por defecto para Node.js, para lograr esto, ejecute el codigo <strong>sudo apt install npm</strong><br>
+Para poder iniciar debe tener instalado el sistema de gestión de paquetes por defecto para Node.js, para lograr esto, ejecute el código:<br>
+  <strong>sudo apt install npm</strong><br>
 Posteriormente diríjase a la carpeta en la cual tiene el código del proyecto mediante el comando <strong>cd</strong> <br>
 Finalmente, dentro de la carpeta, ejecute las siguientes instrucciones <br>
 <strong>sudo npm install</strong> Esta instrucción permite instalar los Package del .json <br>
