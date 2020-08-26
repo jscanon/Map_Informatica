@@ -14,5 +14,5 @@ Ejecute el codigo ...
 
 # Resultado de la aplicación
 <p align="center">
-  <img src="prueba/data/imagen resultado.png">
+  <img src="/prueba/data/imagen resultado.png">
 </p>
