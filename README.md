@@ -1,7 +1,8 @@
 # Relaciones de la informática con otras disciplinas
 # Maestría en ciencias de la Información y las Comunicaciones
 
-Informática - 2020-3
+Informática Gr:195-2
+Periodo académico 2020-3
 Integrante: 
 <ol>
 <li>Daniel David Leal Lara - 20202495012</li>
